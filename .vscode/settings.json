@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.cpp": "cpp",
+        "qwidget": "cpp",
+        "numbers": "cpp",
+        "variant": "cpp",
+        "qjsengine": "cpp",
+        "chrono": "cpp"
+    }
+}
